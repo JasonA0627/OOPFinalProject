@@ -1,6 +1,0 @@
-true;Clean room
-false;Do homework
-true;Go for a run
-false;Finish House
-true;Email counciler
-false;Clean laundrey
