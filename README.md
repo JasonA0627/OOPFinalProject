@@ -14,7 +14,7 @@ This is a small JavaFX desktop application that lets you manage a basic to-do li
 
 1. **Open IntelliJ IDEA**
 2. **Clone the project** from GitHub or create a new one and copy the files in.
-3. Make sure JavaFX is set up properly (see below 👇)
+3. Make sure JavaFX is set up properly (see below)
 4. Right-click the file `Main.java` and choose **Run 'Main.main()'**
 5. A window should pop up where you can start adding tasks!
 
